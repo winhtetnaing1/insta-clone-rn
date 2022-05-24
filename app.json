@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "instagramClone",
+    "slug": "instagramClone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icons/appicon.png",
+    "splash": {
+      "resizeMode": "cover",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/icons/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/icons/favicon.png"
+    },
+    "description": ""
+  }
+}
